@@ -64,4 +64,4 @@ Estamos entusiasmados em construir o SoundVault com a comunidade! Se você desej
 
 ## 📜 Licença
 
-Este projeto é licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto é licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes. (Será criado em breve)
